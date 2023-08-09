@@ -52,7 +52,8 @@ Dessa forma, fica mais fácil encontrar cada parte do seu projeto, não é incr�
 
 **Vamos Ficar Amigos! 🚀**
 
-Se você gostou dessa viagem pelo universo dos componentes no React, que tal continuarmos conectados? Siga-me no Twitter para receber dicas diárias, curta minhas fotos incríveis no Instagram e vamos compartilhar nossas conquistas no LinkedIn. Mal posso esperar para trocar ideias com todos vocês!
+Se você gostou dessa viagem pelo universo dos componentes no React, que tal continuarmos conectados? Siga-me no [Linkedin](https://www.linkedin.com/in/jos%C3%A9-anderson-da-silva-costa-497a36163/)
+ . Mal posso esperar para trocar ideias com todos vocês!
 
 **#FrontEndMágico #ReactDivertido #AprendendoJuntos**
 
