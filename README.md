@@ -58,3 +58,7 @@ Se você gostou dessa viagem pelo universo dos componentes no React, que tal con
 **#FrontEndMágico #ReactDivertido #AprendendoJuntos**
 
 É isso aí, aventureiros do código! Espero que tenham se divertido e aprendido muito sobre os componentes no React. Se surgir alguma dúvida, lembre-se de que estou aqui para ajudar. Até a próxima, e que a magia dos componentes esteja sempre com vocês! 🌟
+
+
+Ilustrações de capa: gerada por lexica.art
+Conteúdo gerado por: ChatGPT e revisões humanas
